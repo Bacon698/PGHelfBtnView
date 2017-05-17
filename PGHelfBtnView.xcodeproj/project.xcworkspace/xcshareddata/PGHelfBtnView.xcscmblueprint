@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A0A299892D4159095789D45784FC0AB9C91C19B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8B2F50DDD247456024A2E246E6F69FC0AD22762D" : 9223372036854775807,
+    "0A0A299892D4159095789D45784FC0AB9C91C19B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "15AC49A3-8457-403F-87C7-73FFFAA9CA0C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8B2F50DDD247456024A2E246E6F69FC0AD22762D" : "PGStepHeadView\/",
+    "0A0A299892D4159095789D45784FC0AB9C91C19B" : "PGHelfBtnView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PGHelfBtnView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PGHelfBtnView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bacon698\/PGHelfBtnView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A0A299892D4159095789D45784FC0AB9C91C19B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bacon698\/PGStepHeadView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B2F50DDD247456024A2E246E6F69FC0AD22762D"
+    }
+  ]
+}
