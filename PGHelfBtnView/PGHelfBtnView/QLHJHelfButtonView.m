@@ -102,6 +102,7 @@
     }];
     [self addSubview:self.tickButton];
     self.tickButton.selected = YES;
+    self.tickButton.adjustsImageWhenHighlighted = NO;
     
     self.label = [UILabel labelWithText:self.labelStr Font:[AppSkin fontOfSize15Thin] color:self.labelColor];
     [self addSubview:self.label];
