@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F227C96F1ECC623400D6ADDA /* QLHJHalfButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = F227C96E1ECC623400D6ADDA /* QLHJHalfButtonView.m */; };
+		F227C96F1ECC623400D6ADDA /* PGHalfButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = F227C96E1ECC623400D6ADDA /* PGHalfButtonView.m */; };
 		F227C98D1ECC626A00D6ADDA /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = F227C9711ECC626A00D6ADDA /* LICENSE */; };
 		F227C98E1ECC626A00D6ADDA /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = F227C9741ECC626A00D6ADDA /* MASCompositeConstraint.m */; };
 		F227C98F1ECC626A00D6ADDA /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = F227C9771ECC626A00D6ADDA /* MASConstraint.m */; };
@@ -49,8 +49,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F227C96D1ECC623400D6ADDA /* QLHJHalfButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QLHJHalfButtonView.h; sourceTree = "<group>"; };
-		F227C96E1ECC623400D6ADDA /* QLHJHalfButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QLHJHalfButtonView.m; sourceTree = "<group>"; };
+		F227C96D1ECC623400D6ADDA /* PGHalfButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGHalfButtonView.h; sourceTree = "<group>"; };
+		F227C96E1ECC623400D6ADDA /* PGHalfButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGHalfButtonView.m; sourceTree = "<group>"; };
 		F227C9711ECC626A00D6ADDA /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F227C9731ECC626A00D6ADDA /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		F227C9741ECC626A00D6ADDA /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
@@ -128,8 +128,8 @@
 			children = (
 				F2D2293F1EDE98FF00C01596 /* UIButton+Extension.h */,
 				F2D229401EDE990500C01596 /* UIButton+Extension.m */,
-				F227C96D1ECC623400D6ADDA /* QLHJHalfButtonView.h */,
-				F227C96E1ECC623400D6ADDA /* QLHJHalfButtonView.m */,
+				F227C96D1ECC623400D6ADDA /* PGHalfButtonView.h */,
+				F227C96E1ECC623400D6ADDA /* PGHalfButtonView.m */,
 			);
 			path = PGHelfBtnView;
 			sourceTree = "<group>";
@@ -379,7 +379,7 @@
 			files = (
 				F227C9901ECC626A00D6ADDA /* MASConstraintMaker.m in Sources */,
 				F2D229411EDE990500C01596 /* UIButton+Extension.m in Sources */,
-				F227C96F1ECC623400D6ADDA /* QLHJHalfButtonView.m in Sources */,
+				F227C96F1ECC623400D6ADDA /* PGHalfButtonView.m in Sources */,
 				F2C7147B1ECC456D00363879 /* ViewController.m in Sources */,
 				F227C98F1ECC626A00D6ADDA /* MASConstraint.m in Sources */,
 				F227C9971ECC626A00D6ADDA /* ViewController+MASAdditions.m in Sources */,

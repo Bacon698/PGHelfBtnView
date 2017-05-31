@@ -10,10 +10,10 @@
 
 @interface ViewController ()
 
-@property (weak, nonatomic) IBOutlet QLHJHalfButtonView *halfButtonView;
+@property (weak, nonatomic) IBOutlet PGHalfButtonView *halfButtonView;
 
-@property (strong, nonatomic) QLHJHalfButtonView *halfButtonViewB;
-@property (strong, nonatomic) QLHJHalfButtonView *halfButtonViewC;
+@property (strong, nonatomic) PGHalfButtonView *halfButtonViewB;
+@property (strong, nonatomic) PGHalfButtonView *halfButtonViewC;
 
 @property (strong, nonatomic) UIButton *nextStepButton;
 
@@ -29,7 +29,7 @@
         [self alertWithTitle:@"xib点击登录"];
     }];
     
-    self.halfButtonViewB = [[QLHJHalfButtonView alloc]initWithText:@"已有账号？去" color:[UIColor grayColor] Text:@"登录" color:[UIColor orangeColor] font:nil action:^(UIButton *button) {
+    self.halfButtonViewB = [[PGHalfButtonView alloc]initWithText:@"已有账号？去" color:[UIColor grayColor] Text:@"登录" color:[UIColor orangeColor] font:nil action:^(UIButton *button) {
         NSLog(@"代码点击登录");
         [self alertWithTitle:@"代码点击登录"];
     }];
@@ -39,7 +39,7 @@
         make.left.equalTo(self.halfButtonView);
     }];
     
-    self.halfButtonViewC = [[QLHJHalfButtonView alloc]initWithProtocolText:@"我已阅读并同意" Text:@"《xxoo协议》" action:^(UIButton *button) {
+    self.halfButtonViewC = [[PGHalfButtonView alloc]initWithProtocolText:@"我已阅读并同意" Text:@"《xxoo协议》" action:^(UIButton *button) {
         NSLog(@"点击协议");
         [self alertWithTitle:@"点击协议"];
     }];

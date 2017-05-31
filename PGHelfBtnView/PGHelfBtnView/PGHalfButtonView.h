@@ -17,7 +17,7 @@ typedef NS_ENUM(NSUInteger, tickState) {
     tickUnselected,
 };
 
-@interface QLHJHalfButtonView : UIView
+@interface PGHalfButtonView : UIView
 
 
 /**

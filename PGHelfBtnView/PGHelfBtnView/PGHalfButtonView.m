@@ -9,11 +9,11 @@
 #define tickInterval 5
 #define defaultFontSize 14
 
-#import "QLHJHalfButtonView.h"
+#import "PGHalfButtonView.h"
 #import "Masonry.h"
 
 
-@interface QLHJHalfButtonView (){
+@interface PGHalfButtonView (){
     UIImage *_tickSelectedImage;
     UIImage *_tickUnselectedImage;
     float _tickWidth;
@@ -33,7 +33,7 @@
 
 @end
 
-@implementation QLHJHalfButtonView
+@implementation PGHalfButtonView
 
 
 /**
