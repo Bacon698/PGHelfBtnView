@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "QLHJHalfButtonView.h"
+#import "Masonry.h"
 
 @interface ViewController : UIViewController
 
